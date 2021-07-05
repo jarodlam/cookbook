@@ -1,0 +1,14 @@
+baseURL = "https://jarodl.am/"
+languageCode = "en-us"
+title = "Jarod Lam"
+theme = "hyde"
+
+[Menus]
+  main = [
+      {Name = "Github", URL = "https://github.com/jarodlam/"},
+      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/jarod-lam/"}
+  ]
+
+[params]
+  description = " "
+  themeColor = "theme-base-0c"
