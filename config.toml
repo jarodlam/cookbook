@@ -2,9 +2,11 @@ baseURL = "https://jarodl.am/cookbook/"
 languageCode = "en-us"
 title = "Lam Family Cookbook"
 theme = "hyde"
+summaryLength = 30
 
 [Menus]
   main = [
+    {Name = "Categories", URL = "/categories"} 
   ]
 
 [params]

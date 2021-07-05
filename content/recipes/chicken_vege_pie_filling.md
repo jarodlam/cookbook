@@ -1,0 +1,44 @@
+---
+title: Chicken & Vege Pie Filling
+date: 2015-05-11T00:00:00+10:00
+categories:
+- Thermomix
+- Snacks
+- ToTry
+---
+
+
+
+
+
+
+
+
+### Ingredients
+
+* 1 Onion (quartered)
+* 2 garlic cloves
+* 350g - 400g mixed chopped vege
+* 1 tbsp oil
+* 2 tsp mustard
+* 1 tbsp TMX vege stock
+* 100g frozen veggies
+* 100g cream
+* 100g milk
+* 400g chopped chicken
+* Small handful diced bacon
+* 2 tbsp cornflour
+* 2 tbsp water
+
+### Method
+
+* ADD ONION, GARLIC & MIXED CHOPPED VEGE TO THE BOWL. CHOP 4 SECONDS, SPEED 5. SCRAPE DOWN.
+* ADD OIL TO THE BOWL & SAUTE 5 MINUTES, 120◦, REVERSE, SPEED 1.
+* ADD IN ORDER – MUSTARD, VEGGIE STOCK, FROZEN VEGGIES, CREAM, MILK, CHICKEN & BACON. NOW COOK 5 MINUTES, 100◦, REVERSE, SPEED SOFT.
+* MIX TOGETHER YOUR CORNFLOUR & WATER TO MAKE A PASTE AND POUR THIS INTO YOUR BOWL.
+* NOW USE YOUR SPATULA TO SLIGHTLY MOVE CHICKEN AROUND. TAKE CARE NOT TO PUSH THE CHICKEN DOWN OR YOU WILL SHRED IT IN THE FINAL STAGES OF COOKING.
+* COOK FOR AN ADDITIONAL 10 MINUTES, 100◦, REVERSE, SPEED SOFT. 
+
+### Note
+
+* THIS PIE FILLING WILL MAKE ENOUGH FOR A LARGE PIE.

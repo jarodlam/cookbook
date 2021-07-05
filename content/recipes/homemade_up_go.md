@@ -1,0 +1,38 @@
+---
+title: Homemade Up & Go
+date: 2015-05-11T00:00:00+10:00
+serves: 2
+categories:
+- Thermomix
+- Snacks
+- ToTry
+---
+
+
+
+
+
+
+
+
+
+### Ingredients
+
+* 2 Weetbix
+* 1 banana (fresh or frozen)
+* 200g milk
+* 1 tsp vanilla
+* 2 tbsp Milo
+* 15g honey
+* 150g ice
+
+### Method
+
+* ADD ALL INGREDIENTS TO THE BOWL & BLEND 1 MIN 30 SECONDS, SPEED 9. 
+
+### Tips
+
+* YOU CAN SWAP THE WEETBIX WITH MILLED OATS IF NEEDED. 
+* YOU CAN SWAP THE MILO WITH 2 TSP OF CACAO OR COCOA IF NEEDED. 
+* IF YOU WANT TO MAKE A STRAWBERRY VERSION SIMPLY OMIT THE MILO & BANANA AND USE A HANDFUL OF STRAWBERRIES. 
+* IF YOU WOULD LIKE TO ADD SOME YOGHURT TO THIS RECIPE REPLACE 50G OF THE MILK FOR 50G OF YOGHURT.
