@@ -1,14 +1,12 @@
-baseURL = "https://jarodl.am/"
+baseURL = "https://jarodl.am/cookbook/"
 languageCode = "en-us"
-title = "Jarod Lam"
+title = "Lam Family Cookbook"
 theme = "hyde"
 
 [Menus]
   main = [
-      {Name = "Github", URL = "https://github.com/jarodlam/"},
-      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/jarod-lam/"}
   ]
 
 [params]
-  description = " "
-  themeColor = "theme-base-0c"
+  description = "A collection of family recipes and more."
+  themeColor = "theme-base-08"
