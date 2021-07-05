@@ -5,7 +5,7 @@ categories:
 - Dessert
 ---
 
-This recipe from a kids' cookbook has been a favourite of the kids since they were in primary scool. They were always a hit when brought to school.
+This recipe from a kids' cookbook has been a favourite since primary scool. They were always a hit when brought to school.
 
 These are a bit denser than normal brownies and quite sweet, so sugar should definitely be reduced here.
 

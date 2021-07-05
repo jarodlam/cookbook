@@ -14,6 +14,8 @@ commit_currrent_dir() {
 ROOTDIR=$PWD
 set -x
 
+hugo
+
 cd public
 commit_currrent_dir "$1"
 
