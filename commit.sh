@@ -15,13 +15,13 @@ ROOTDIR=$PWD
 set -x
 
 cd public
-commit_currrent_dir $1
+commit_currrent_dir "$1"
 
 cd $ROOTDIR
 
 cd themes/hyde
-commit_currrent_dir $1
+commit_currrent_dir "$1"
 
 cd $ROOTDIR
 
-commit_currrent_dir $1
+commit_currrent_dir "$1"
