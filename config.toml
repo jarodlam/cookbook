@@ -12,3 +12,8 @@ summaryLength = 30
 [params]
   description = "A collection of family recipes and more."
   themeColor = "theme-base-08"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
