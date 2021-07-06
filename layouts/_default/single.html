@@ -1,0 +1,43 @@
+{{ define "main" -}}
+<div class="post">
+  <h1>{{ .Title }}</h1>
+  <ul class="recipe-info">
+    {{ with .Date }}
+    <li>
+      <span class="recipe-info-key">Date </span>
+      <span class="recipe-info-value"><time datetime={{ .Format "2006-01-02T15:04:05Z0700" }}>{{ .Format "Mon, Jan 2, 2006" }}</time></span>
+    {{ end }}
+    {{ with .Params.testedon }}
+    {{ $t := . | time }}
+    <li>
+      <span class="recipe-info-key">Tested </span>
+      <span class="recipe-info-value"><time datetime={{ $t.Format "2006-01-02T15:04:05Z0700" }}>{{ $t.Format "Mon, Jan 2, 2006" }}</time></span>
+    {{ end }}
+    {{ with .Params.serves }}
+    <li>
+      <span class="recipe-info-key">Serves </span>
+      <span class="recipe-info-value">{{ . }}</span>
+    {{ end }}
+    {{ with .Params.cookingtime }}
+    <li>
+      <span class="recipe-info-key">Time </span>
+      <span class="recipe-info-value">{{ . }}</span>
+    {{ end }}
+    {{ with .Params.source }}
+    <li>
+      <span class="recipe-info-key">Source </span>
+      <span class="recipe-info-value">{{ . }}</span>
+    {{ end }}
+  </ul>
+
+      {{ with .Resources.GetMatch "cover.*" }}
+      <img src="{{.RelPermalink}}">
+      {{ end }}
+  {{ .Content }}
+</div>
+
+{{ if .Site.DisqusShortname -}}
+<h2>Comments</h2>
+{{ template "_internal/disqus.html" . }}
+{{- end }}
+{{- end }}

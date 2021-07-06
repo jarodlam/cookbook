@@ -5,3 +5,20 @@
 .post-date {
   display: none !important;
 }
+
+.recipe-info {
+  list-style-type: none;
+  padding-left: 0px;
+  color: #808080
+}
+
+.recipe-info-key {
+  display: inline-block;
+  font-size: 80%;
+  min-width: 50px
+}
+
+.recipe-info-value {
+  display: inline-block;
+  font-weight: bold;
+}
