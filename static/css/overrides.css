@@ -6,6 +6,20 @@
   display: none !important;
 }
 
+.post {
+  margin-bottom: 0.5em !important;
+  overflow: hidden;
+  vertical-align: middle;
+}
+
+.post-title {
+}
+
+.post-thumbnail {
+  width: 100px;
+  height: 100px;
+}
+
 .recipe-info {
   list-style-type: none;
   padding-left: 0px;

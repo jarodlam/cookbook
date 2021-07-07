@@ -1,0 +1,31 @@
+{{ define "main" -}}
+<div class="posts">
+<!-- Loop over all categories -->
+{{ range $name, $taxonomy := .Site.Taxonomies.categories }}
+
+  <!-- Get list of pages in this category that belong to the "recipes" section-->
+  {{ $p := (where .Pages "Section" "recipes") }}
+
+  <!-- Check if there are any pages in this category -->
+  <!-- e.g. probably no Thermomix recipes outside of "archive" -->
+  {{ if gt (len $p) 0 }}
+
+    <!-- Display name of the category, capitalised -->
+    <h1> {{ $name | title }} </h1>
+
+    <!-- Loop over pages in this category and display them-->
+    {{ range $p }}
+      <a href="{{ .Permalink }}"><article class="post">
+        {{ with .Resources.GetMatch "cover.*" }}
+            <img src="{{.RelPermalink}}" class="post-thumbnail">
+        {{ end }}
+        <h2 class="post-title">
+          <a href="{{ .Permalink }}">{{ .Title }}</a>
+        </h2>
+      </article></a>
+    {{ end }}
+
+  {{ end }}
+{{ end }}
+</div>
+{{ end }}

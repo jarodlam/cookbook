@@ -2,6 +2,7 @@
 title: Popcorn
 date: 2015-06-07T00:00:00+10:00
 source: Sarah and Jarod
+serves: 2
 categories: Snacks
 ---
 

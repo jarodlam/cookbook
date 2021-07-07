@@ -2,8 +2,7 @@
 title: Brownies
 serves: about 20
 source: Kids cookbook
-categories:
-- Desserts
+categories: Dessert
 ---
 
 ### Ingredients
