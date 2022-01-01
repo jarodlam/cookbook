@@ -16,9 +16,9 @@ Mum's classic sweet corn soup recipe.
 * 1 egg
 
 ## Method
-* Boil about 1-2 cups water in pot
-* Add 1 can corn kernels, 1 can creamed corn
-* Add finely diced chicken when boiling
-* When chicken is almost cooked, add soup seasoning
-* When cooked, stir in about 1 tsp cornflour+water 
-* Turn off heat and stir in 1 beaten egg
+* Boil about 1 cup water in pot.
+* Add 1 can corn kernels, 1 can creamed corn. Add more water if needed.
+* Add finely diced chicken when boiling.
+* When chicken is almost cooked, add soup seasoning.
+* When cooked, stir in about 1 tsp corn flour+water mixture.
+* Turn off heat and stir in 1 beaten egg.

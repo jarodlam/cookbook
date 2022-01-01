@@ -10,15 +10,15 @@ categories: Main
     * Chopped onion
     * Garlic and ginger
     * Curry/kaffir lime leaves
-    * Lemongrass
+    * Lemongrass, bruised
     * Curry powder+water paste
 * Whole chicken, chopped
 * Potato, chopped
 * Coconut cream
 
 ## Method
-* Fry aromatics in a deep pot.
-* Add whole chopped chicken and cook for a bit.
+* Fry aromatics in a deep pot. Once they start to brown, add curry paste and fry some more.
+* Add whole chopped chicken with just enough water to cover the chicken. Cook until browning.
 * Add coarsely chopped potato and mix.
 * Add large amount of boiling water, simmer for at least 30 min.
 * Add salt and pepper to taste. Cook until chicken is cooked, potatoes are soft, and soup reduced, could take another 30 min.
