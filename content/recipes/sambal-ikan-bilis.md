@@ -1,0 +1,24 @@
+---
+title: Sambal ikan bilis
+date: 1992-12-06T00:00:00+10:00
+source: Ah Tai
+categories: Main
+---
+
+## Ingredients
+* Rempah
+  * Red onions
+  * Lemongrass
+  * Galangal
+  * Turmeric
+  * Belacan
+  * Chilli powder
+* Assam concentrate
+* Sugar
+* Ikan bilis
+
+## Method
+1. Fry ikan bilis in oil until crisp.
+2. Grind rempah ingredients in lots of oil until oil floats to the side. Should be red.
+3. Add a bit of assam and water. Add sugar to taste.
+4. Add fried ikan bilis. Should have just enough sambal to coat ikan bilis.
