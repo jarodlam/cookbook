@@ -24,14 +24,14 @@ categories: Main
   * Sugar
 
 ## Method
-* Mix the filling ingredients in a mixing bowl.
+1. Mix the filling ingredients in a mixing bowl.
 ![Meat](meat.jpg)
-* Mix together the omelette ingredients and beat thoroughly.
-* Heat a frying pan with oil. Add 1 tablespoon of egg mixture to the pan, then immediately spoon some filling onto the egg. 
+2. Mix together the omelette ingredients and beat thoroughly.
+3. Heat a frying pan with oil. Add 1 tablespoon of egg mixture to the pan, then immediately spoon some filling onto the egg. 
 ![Filling](filling.jpg)
-* Wrap up the egg roll and flip over. Fry on both sides until browned, then remove onto a plate.
+4. Wrap up the egg roll and flip over. Fry on both sides until browned, then remove onto a plate.
 ![Fry](fry.jpg)
-* Repeat until ingredients are used up.
+5. Repeat until ingredients are used up.
 ![Repeat](repeat.jpg)
-* Add all the cooked egg rolls back to the pan. Add some water and cover. Cook until water has evaporated.
+6. Add all the cooked egg rolls back to the pan. Add some water and cover. Cook until water has evaporated.
 ![Steam](steam.jpg)

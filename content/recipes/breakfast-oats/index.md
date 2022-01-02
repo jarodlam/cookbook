@@ -6,18 +6,18 @@ categories: Breakfast
 ---
 
 ## Method
-* In a jar, add:
+1. In a jar, add:
     * 1 cup oats
-* Assorted dry ingredients:
-    * Chia seeds
-    * Cacao nibs
-    * Goji berries
-    * Sultanas
-    * Dried apricot
-* Then add:
+	* Assorted dry ingredients:
+    	* Chia seeds
+    	* Cacao nibs
+    	* Goji berries
+    	* Sultanas
+    	* Dried apricot
+2. Then add:
     * ~1 cup (cover dry ingredients) milk
     * ~1 cup (3 large scoops) yoghurt
-* Mix thoroughly, add fresh soft fruit on top:
+3. Mix thoroughly, add fresh soft fruit on top:
     * Grapes
     * Berries
     * Mango

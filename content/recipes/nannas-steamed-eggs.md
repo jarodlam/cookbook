@@ -11,5 +11,5 @@ categories: Main
 * Chives
 * Seasoning (light soy)
 
-### Method
+## Method
 * Mix everything toget in a dish. Microwave on high for 10 minutes.

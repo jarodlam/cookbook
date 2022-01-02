@@ -26,19 +26,19 @@ categories: Main
   * Sugar, garlic, five spice (optional)
 
 ## Method
-* Mix the filling ingredients in a mixing bowl.
+1. Mix the filling ingredients in a mixing bowl.
 ![Meat](meat.jpg)
-* Cut the eggplant into ~2cm slices and cut a slit in each slice.
+2. Cut the eggplant into ~2cm slices and cut a slit in each slice.
 ![Slices](slices.jpg)
-* Submerge eggplant in a bowl of water and soak for around 10 min. This removes some bitterness.
+3. Submerge eggplant in a bowl of water and soak for around 10 min. This removes some bitterness.
 ![Soaking](soak.jpg)
-* Fill the eggplant with the filling.
+4. Fill the eggplant with the filling.
 ![Filling](filling.jpg)
-* Optional: coat pieces in corn flour and five spice mixture.
+5. Optional: coat pieces in corn flour and five spice mixture.
 ![Coating](coat.jpg)
-* Pan fry on low heat with oil. Cover until first side has browned, make sure it doesn’t burn. Then flip all pieces and pan fry on other side. Should take around 5 minutes per side.
+6. Pan fry on low heat with oil. Cover until first side has browned, make sure it doesn’t burn. Then flip all pieces and pan fry on other side. Should take around 5 minutes per side.
 ![Frying](fry.jpg)
-* Add water to pan and cover. Cook until water evaporates.
+7. Add water to pan and cover. Cook until water evaporates.
 ![Steaming](steam.jpg)
-* To make the sauce, mix the sauce ingredients in a small bowl and add to 2 cups boiling water. Simmer until thickened, then add spring onion and salt to taste. Pour sauce over eggplant.
+8. To make the sauce, mix the sauce ingredients in a small bowl and add to 2 cups boiling water. Simmer until thickened, then add spring onion and salt to taste. Pour sauce over eggplant.
 ![Sauce](sauce.jpg)

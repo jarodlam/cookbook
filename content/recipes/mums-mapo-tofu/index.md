@@ -15,16 +15,16 @@ This recipe was adapted by Mum from cousins' grandpa who used to run a Taiwanese
 * Sliced chilli
 
 ## Method
-* Cut soft tofu into diamonds and soak in water.
+1. Cut soft tofu into diamonds and soak in water.
 ![Tofu soaking in water](IMG_7813.jpeg)
-* Marinate the mince in soy sauce, wine, oyster sauce, etc.
-* In wok, fry onion, garlic, ginger and chilli.
-* When done, add cooked marinated mince.
-* Add cooking wine.
-* Start sauce by adding some hot water.
+2. Marinate the mince in soy sauce, wine, oyster sauce, etc.
+3. In wok, fry onion, garlic, ginger and chilli.
+4. When done, add cooked marinated mince.
+5. Add cooking wine.
+6. Start sauce by adding some hot water.
 ![After ading water.](IMG_7814.jpeg)
-* Seasoning is whatever you want. Mum adds oyster sauce, sesame oil, sugar, pepper, cooking caramel. Adjust to taste.
-* Once happy with seasoning, add drained tofu. Tofu should be rinsed twice until clear.
-* Let tofu boil for a few minutes until cooked.
-* Add some cornstarch+water and stir to thicken.
-* Add chopped spring onion and serve.
+7. Seasoning is whatever you want. Mum adds oyster sauce, sesame oil, sugar, pepper, cooking caramel. Adjust to taste.
+8. Once happy with seasoning, add drained tofu. Tofu should be rinsed twice until clear.
+9. Let tofu boil for a few minutes until cooked.
+10. Add some cornstarch+water and stir to thicken.
+11. Add chopped spring onion and serve.
