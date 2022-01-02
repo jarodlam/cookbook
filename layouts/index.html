@@ -4,7 +4,7 @@
 {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
 
   <!-- Get list of pages in this category that belong to the "recipes" section-->
-  {{ $p := (where .Pages "Section" "recipes") }}
+  {{ $p := (where .Pages.ByTitle "Section" "recipes") }}
 
   <!-- Check if there are any pages in this category -->
   <!-- e.g. probably no Thermomix recipes outside of "archive" -->
