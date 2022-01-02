@@ -12,7 +12,7 @@ categories: Main
 * Five-spice powder (optional)
 
 ## Method
-* A few days beforehand, place the pork belly on a plate and rub a generous amount of salt onto the skin. Leave uncovered in the fridge to dry out the skin.
+* A few days beforehand, place the pork belly on a plate and rub a generous amount of salt onto the skin. Leave uncovered in the fridge to dry out the skin. Put a few layers of paper towel under the pork belly to soak up moisture.
 * Take out the pork belly. Rub all surfaces with oil. Optionally add five-spice powder for a more Chinese flavour.
 * Place pork belly into a turbo cooker. Put a plate or pan underneath to collect the oil. Use a turbo cooker extender ring if available. The top of the pork belly should not have any place for oil to pool---if it does, prop up the middle of the pork belly by placing a small dish underneath.
 * Cook at 160°C for 20 minutes until the skin has softened. Take out the pork and slice lines into the skin 1cm apart.
