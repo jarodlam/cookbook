@@ -14,9 +14,9 @@ categories: Dessert
 * Sugar
 
 ## Method
-1. Cut taro and sweet potato in 1cm diamond shape.
-2. Cook taro and sweet potato by microwave or steaming.
-3. Put some water and ginger (optional) and whole can of coconut cream in pot.
+1. Cut taro and sweet potato into ~1cm diamond shape.
+2. Cook taro and sweet potato by microwave or steaming for around 10 minutes.
+3. Put some boiling water and ginger (optional) and whole can of coconut cream in pot.
 4. Add sugar to taste.
 5. Add cooked potato and taro, bring to boil.
-6. Soak sago and add to pot. Turn off heat and cover for 1-2 hours.
+6. Soak sago for a few minutes and add to pot. Turn off heat and cover for 1-2 hours.

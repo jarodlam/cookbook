@@ -36,7 +36,7 @@ categories: Main
 ![Filling](filling.jpg)
 * Optional: coat pieces in corn flour and five spice mixture.
 ![Coating](coat.jpg)
-* Pan fry on low heat. Cover until first side has browned, make sure it doesn’t burn. Then flip all pieces and pan fry on other side. Should take around 5 minutes per side.
+* Pan fry on low heat with oil. Cover until first side has browned, make sure it doesn’t burn. Then flip all pieces and pan fry on other side. Should take around 5 minutes per side.
 ![Frying](fry.jpg)
 * Add water to pan and cover. Cook until water evaporates.
 ![Steaming](steam.jpg)
