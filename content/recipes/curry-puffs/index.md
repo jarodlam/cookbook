@@ -12,7 +12,8 @@ This recipe makes 72 curry puffs. Can halve or quarter the quantity to make less
 * 1.4 kg pork mince
 * 1 kg potato, cut into 1cm cube
 * 1 medium onion, finely chopped
-* 4 tbsp coriander powder
+* 2 tbsp coriander powder
+* 2 tbsp curry powder, substitute with coriander powder for non-spicy version
 * 2 tsp tumeric powder
 * Salt and pepper
 * Soy sauce (optional)

@@ -15,11 +15,11 @@ This dish is a bit soury.
   * Lemongrass
   * Galangal
   * Turmeric
-* Assam water
+* Tamarind paste
 * Fish fillet
 * Pineapple pieces
 
 ## Method
 1. Grind rempah ingredients and fry in lots of oil until fragrant.
-2. Boil assam water (about a bowl) then add rempah. 
-3. Add fish fillet and pineaple pieces. Simmer until ingredients are cooked.
+2. Fry fish fillet and pineapple pieces in rempah until cooked.
+3. Add small amount of tamarind paste diluted with water to taste.

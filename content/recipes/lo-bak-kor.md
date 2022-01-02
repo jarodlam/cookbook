@@ -7,7 +7,7 @@ categories: Main
 
 ## Ingredients
 * 2 radishes, grated
-* Dried shrimp, chopped
+* Dried shrimp, soaked then finely chopped
 * 1 packet rice flour
 
 ## Method

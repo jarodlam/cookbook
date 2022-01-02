@@ -4,6 +4,8 @@ source: Mum
 categories: Main
 ---
 
+Note to self: look up non-Bessemer method
+
 ## Ingredients
 * 1 tbsp oil
 * 1 onion, finely chopped
@@ -16,10 +18,11 @@ categories: Main
 * Salt
 * Lup chong
 * Glutinous rice
+* Equal volume of water to rice
 * Small chicken thigh strips
 
-## Method
-1. Soak glutinous rice in equal part water for at least 2 hours.
-2. Heat pan on medium. Stir-fry all ingredients except rice until fragrant.
-3. Add rice and mix well. Add half amount of liquid and cover with vent open.
-4. When steam appears, add the rest of liquid and cover until cooked.
+## Method (Bessemer version)
+1. Soak glutinous rice in water for at least 2 hours.
+2. Heat pan on medium. Stir-fry all ingredients separately except rice until fragrant, then add all back to the pan.
+3. Add rice and mix well. Add half amount of water and cover with vent open.
+4. When steam appears, add the rest of water and cover until cooked.

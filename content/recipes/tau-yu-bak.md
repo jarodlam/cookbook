@@ -1,23 +1,23 @@
 ---
 title: Tau yu bak
-date: 1992-12-06T00:00:00+10:00
-source: Ah Tai
+date: 2006-06-06T00:00:00+10:00
+source: Mum
 categories: Main
 ---
 
 ## Ingredients
-* Pork (fatty cut like pork belly), cut in large chunks with fat and skin
-* Onion, finely chopped
-* Dark soy sauce
-* Cinnamon stick
-* Cloves
-* 1 star anise
-* 2-3 cloves garlic
-* A bit of sugar
-* Pinch of salt
+* 2 kg pork collar butt, cut into large pieces
+* 1 head garlic, separated into cloves with skin on
+* 1 tbsp sugar
+* 1 tbsp cooking caramel
+* 2 tbsp light soy sauce
+* 2 tbsp dark soy sauce
+* Pepper
+* 1 tsp five-spice powder (optional)
+* Hard-boiled eggs
 
 ## Method
-1. Fry onion. Add pork, dark soy sauce, cinnamon stick, cloves, star anise, garlic, sugar and salt.
-2. Add water. Add mushroom and small tofu pieces (optional).
-3. Simmer for a few hours on low heat until meat is tender.
-4. Add hard-boiled egg when ready.
+1. Add garlic, sugar, cooking caramel, light soy sauce, dark soy sauce, five-spice powder and pepper to a large pot.
+2. Add pork over the sauce.
+3. Simmer on low heat for around an hour until meat is tender. Check every 20 minutes or so, add a little bit of water if it has dried up (but this is not always necessary).
+4. Add hard-boiled eggs for the last 10 minutes.

@@ -15,6 +15,7 @@ categories: Main
   * Belacan
   * Dried shrimp
 * Coconut milk
+* Coconut cream
 * Vegetables
   * Small tofu
   * Fish balls
@@ -26,7 +27,7 @@ categories: Main
 
 ## Method
 1. Grind rempah ingredients together. Grind the dried shrimp separately.
-2. Fy rempah. Add dried shrimp.
-3. Add 2nd round coconut milk, cook until boiling.
+2. Fry rempah. Add dried shrimp.
+3. Add coconut milk, cook until boiling.
 4. Add vegetables and cook until tender.
-5. Add 1st round coconut milk.
+5. Add coconut cream.

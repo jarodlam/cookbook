@@ -13,12 +13,12 @@ categories: Main
   * Turmeric
   * Belacan
   * Chilli powder
-* Assam concentrate
+* Tamarind paste
 * Sugar
-* Ikan bilis
+* Ikan bilis, washed and rinsed to remove salt
 
 ## Method
-1. Fry ikan bilis in oil until crisp.
+1. Fry ikan bilis in oil on low heat until crisp.
 2. Grind rempah ingredients in lots of oil until oil floats to the side. Should be red.
-3. Add a bit of assam and water. Add sugar to taste.
+3. Add a bit of tamarind paste and water. Add sugar to taste.
 4. Add fried ikan bilis. Should have just enough sambal to coat ikan bilis.

@@ -12,4 +12,4 @@ categories: Main
 * Seasoning (light soy)
 
 ## Method
-* Mix everything toget in a dish. Microwave on high for 10 minutes.
+* Mix everything together in a dish. Microwave on high for 10 minutes.

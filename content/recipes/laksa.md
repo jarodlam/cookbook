@@ -8,7 +8,8 @@ categories: Main
 ## Ingredients
 * Pre-prepared rempah
 * Chopped dried shrimp
-* Thin and thick coconut milk
+* Coconut milk
+* Coconut cream
 * Bean sprouts
 * White noodles
 * Prawns, meat and shells separated
@@ -16,17 +17,18 @@ categories: Main
 * Fish cake
 * Fish balls
 * Vegetables (cabbage, beans, tomato, cauliflower, etc.)
+* Laksa leaves
 
 ## Method
 1. Sauce
   * Fry rempah in lots of oil with chopped dried shrimps on medium heat until fragrant.
-  * Add thin coconut milk and cook on low heat until oil from coconut milk does not come out.
+  * Add coconut milk and cook on low heat. Be careful as the coconut milk will separate on high heat.
   * Add some water to dilute, and salt to taste. Sauce should be a bit red.
-  * Add thick coconut milk.
+  * Add coconut cream.
 2. Other ingredients
   * *Bean sprouts:* lightly boil in water.
   * *White noodles:* boil in water according to packet.
-  * *Prawns:* cook in sauce then add shells, cut into smaller pieces.
+  * *Prawns:* cook in sauce with shells on, then remove shells and cut into smaller pieces.
   * *Stuffed fried bean curd with fish meat:* Refer to recipe.
   * *Fish cake and fish balls:* cook according to instructions.
   * *Vegetables:* stir fry or boil (optional).

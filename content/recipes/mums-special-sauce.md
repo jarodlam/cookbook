@@ -5,7 +5,7 @@ source: Mum
 categories: Main
 ---
 
-Good for serving with chicken and pork.
+Good for serving with chicken and pork. Cooked version is good for steamed fish.
 
 ## Ingredients
 * 1 tbsp light soy sauce

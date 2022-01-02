@@ -9,9 +9,10 @@ categories: Main
 * Pre-prepared rempah
 * Pineapple cubes
 * Coconut milk
+* Coconut cream
 * Prawns
 
 ## Method
 1. Fry rempah in lots of oil.
-2. Add pinapple cues and 2nd round coconut milk. Simmer.
-3. Add prawns and 1st round coconut milk. Simmer.
+2. Add pinapple cubes and coconut milk. Simmer.
+3. Add prawns and coconut cream. Cook for a few minutes only, do not overcook the prawns.
