@@ -18,7 +18,7 @@ Note to self: look up non-Bessemer method
 * Oyster sauce
 * Salt
 * Lup chong
-* Equal volume of water to rice
+* Equal volume of water to rice (for steaming)
 * Small chicken thigh strips
 
 ## Method (Bessemer version)
