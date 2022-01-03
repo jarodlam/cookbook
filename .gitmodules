@@ -2,7 +2,3 @@
 	path = themes/hyde
 	url = https://github.com/jarodlam/hyde.git
 	branch = master
-[submodule "public"]
-	path = public
-	url = https://github.com/jarodlam/cookbook.git
-	branch = master
