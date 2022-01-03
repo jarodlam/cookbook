@@ -34,5 +34,5 @@ jobs:
           external_repository: jarodlam/cookbook
           publish_dir: ./public
           user_name: jarodlam
-          # user_email: jlam96@gmail.com
+          user_email: jlam96@gmail.com
           cname: jarodl.am
