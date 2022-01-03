@@ -30,9 +30,9 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         # if: ${{ github.ref == 'refs/heads/main' }}
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          personal_token: ${{ secrets.GITHUB_TOKEN }}
           external_repository: jarodlam/cookbook
           publish_dir: ./public
-          # user_name: jarodlam
+          user_name: jarodlam
           # user_email: jlam96@gmail.com
           cname: jarodl.am
