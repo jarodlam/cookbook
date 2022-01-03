@@ -7,6 +7,7 @@ categories: Main
 Note to self: look up non-Bessemer method
 
 ## Ingredients
+* 2 metric cups glutinous rice
 * 1 tbsp oil
 * 1 onion, finely chopped
 * 1 clove garlic, finely chopped
@@ -17,7 +18,6 @@ Note to self: look up non-Bessemer method
 * Oyster sauce
 * Salt
 * Lup chong
-* Glutinous rice
 * Equal volume of water to rice
 * Small chicken thigh strips
 
