@@ -3,7 +3,7 @@ name: GitHub Pages
 on:
   push:
     branches:
-      - master  # Set a branch to deploy
+      - main  # Set a branch to deploy
   pull_request:
 
 jobs:
@@ -28,11 +28,7 @@ jobs:
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
-        # if: ${{ github.ref == 'refs/heads/main' }}
+        if: ${{ github.ref == 'refs/heads/main' }}
         with:
-          personal_token: ${{ secrets.GITHUB_TOKEN }}
-          external_repository: jarodlam/cookbook
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-          user_name: jarodlam
-          user_email: jlam96@gmail.com
-          cname: jarodl.am
