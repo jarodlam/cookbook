@@ -25,13 +25,13 @@ categories: Main
 
 ## Method
 1. Mix the filling ingredients in a mixing bowl.
-![Meat](meat.jpg)
+{{< img src="meat.jpg" alt="Meat" >}}
 2. Mix together the omelette ingredients and beat thoroughly.
 3. Heat a frying pan with oil. Add 1 tablespoon of egg mixture to the pan, then immediately spoon some filling onto the egg. 
-![Filling](filling.jpg)
+{{< img src="filling.jpg" alt="Filling" >}}
 4. Wrap up the egg roll and flip over. Fry on both sides until browned, then remove onto a plate.
-![Fry](fry.jpg)
+{{< img src="fry.jpg" alt="Fry" >}}
 5. Repeat until ingredients are used up.
-![Repeat](repeat.jpg)
+{{< img src="repeat.jpg" alt="Repeat" >}}
 6. Add all the cooked egg rolls back to the pan. Add some water and cover. Cook until water has evaporated.
-![Steam](steam.jpg)
+{{< img src="steam.jpg" alt="Steam" >}}
