@@ -22,16 +22,16 @@ The rempah ingredients are from Ah Tai's notes. Can also use [this recipe]({{< r
 * Sugar
 * Mint leaves/laksa leaves (optional)
 
-![Ingredients 1](ingredients1.jpg)
-![Ingredients 2](ingredients2.jpg)
+{{< img src="ingredients1.jpg" alt="Ingredients 1">}}
+{{< img src="ingredients2.jpg" alt="Ingredients 2">}}
 
 ## Method
 1. Use pre-made rempah, or grind rempah ingredients and fry in lots of oil until fragrant. Set aside.
 2. Fry onions in oil until caramelised well. Then add rempah and fry for a few more minutes.
-![Onion](onion.jpg)
+{{< img src="onion.jpg" alt="Onion" >}}
 3. Add chicken, stir well and cover. Cook for a few minutes until the outside of the chicken has browned.
-![chicken](chicken.jpg)
+{{< img src="chicken.jpg" alt="Chicken">}}
 4. Add tomato, stir well and cover. Cook for around 20 minutes, stirring occasionally. The tomato should be completely broken up.
-![tomato](tomato.jpg)
+{{< img src="tomato.jpg" alt="Tomato">}}
 5. Adjust taste with tamarind water, salt and sugar.
-![adjust](adjust.jpg)
+{{< img src="adjust.jpg" alt="Adjust">}}
