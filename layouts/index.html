@@ -17,7 +17,8 @@
     {{ range $p }}
       <a href="{{ .Permalink }}"><article class="post">
         {{ with .Resources.GetMatch "cover.*" }}
-            <img src="{{.RelPermalink}}" class="post-thumbnail">
+          {{ $src := .Fill "200x200 Center Gaussian" }}
+          <img src="{{ $src.RelPermalink }}" class="post-thumbnail">
         {{ end }}
         <h2 class="post-title">
           <a href="{{ .Permalink }}">{{ .Title }}</a>
